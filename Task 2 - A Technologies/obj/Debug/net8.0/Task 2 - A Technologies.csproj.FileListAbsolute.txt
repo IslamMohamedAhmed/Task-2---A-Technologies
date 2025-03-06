@@ -1,0 +1,44 @@
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\appsettings.json
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Task 2 - A Technologies.staticwebassets.endpoints.json
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Task 2 - A Technologies.exe
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Task 2 - A Technologies.deps.json
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Task 2 - A Technologies.runtimeconfig.json
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Task 2 - A Technologies.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Task 2 - A Technologies.pdb
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\FastEndpoints.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\FastEndpoints.Attributes.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\FastEndpoints.Messaging.Core.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Services.Abstractions.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Shared.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Services.Abstractions.pdb
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\bin\Debug\net8.0\Shared.pdb
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.AssemblyInfo.cs
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\scopedcss\bundle\Task 2 - A Technologies.styles.css
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets\msbuild.Task 2 - A Technologies.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets\msbuild.Task 2 - A Technologies.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets\msbuild.build.Task 2 - A Technologies.props
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task 2 - A Technologies.props
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task 2 - A Technologies.props
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 -.8F6CB5A3.Up2Date
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\refint\Task 2 - A Technologies.dll
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.pdb
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\Task 2 - A Technologies.genruntimeconfig.cache
+C:\Users\pc\source\repos\Task 2 - A Technologies\Task 2 - A Technologies\obj\Debug\net8.0\ref\Task 2 - A Technologies.dll

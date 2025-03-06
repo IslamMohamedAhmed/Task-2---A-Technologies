@@ -1,0 +1,102 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Shared/1.0.0": {
+        "dependencies": {
+          "FastEndpoints": "5.35.0"
+        },
+        "runtime": {
+          "Shared.dll": {}
+        }
+      },
+      "FastEndpoints/5.35.0": {
+        "dependencies": {
+          "FastEndpoints.Attributes": "5.35.0",
+          "FastEndpoints.Messaging.Core": "5.35.0",
+          "FluentValidation": "11.11.0"
+        },
+        "runtime": {
+          "lib/net8.0/FastEndpoints.dll": {
+            "assemblyVersion": "5.35.0.0",
+            "fileVersion": "5.35.0.0"
+          }
+        }
+      },
+      "FastEndpoints.Attributes/5.35.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "8.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FastEndpoints.Attributes.dll": {
+            "assemblyVersion": "5.35.0.0",
+            "fileVersion": "5.35.0.0"
+          }
+        }
+      },
+      "FastEndpoints.Messaging.Core/5.35.0": {
+        "runtime": {
+          "lib/netstandard2.1/FastEndpoints.Messaging.Core.dll": {
+            "assemblyVersion": "5.35.0.0",
+            "fileVersion": "5.35.0.0"
+          }
+        }
+      },
+      "FluentValidation/11.11.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.11.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/8.0.0": {}
+    }
+  },
+  "libraries": {
+    "Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastEndpoints/5.35.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6pMv0i2AsPlwZES65qfVrwpjQDVIBDOFZ2/E7UqWbHNjpB8T5PpsbaFa8cLrcvkLzxijqzORDmDJ+wB6hck2rA==",
+      "path": "fastendpoints/5.35.0",
+      "hashPath": "fastendpoints.5.35.0.nupkg.sha512"
+    },
+    "FastEndpoints.Attributes/5.35.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fxxc1Bh6ItLQ1lJg4bEIg57AoRCibu69GCmCOe35vzAqq4nQVb9bGl5snoxJA3CNkC4XzIJLXzsKj/fJNtiHxQ==",
+      "path": "fastendpoints.attributes/5.35.0",
+      "hashPath": "fastendpoints.attributes.5.35.0.nupkg.sha512"
+    },
+    "FastEndpoints.Messaging.Core/5.35.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gLvzZ0h7+/jWCfp9U9y04E1miy5WwMjnd1stxCh+nMTvxRfo4qtd93qIsTHScQr+r6pCS0LYjdyqGfLxzncHyg==",
+      "path": "fastendpoints.messaging.core/5.35.0",
+      "hashPath": "fastendpoints.messaging.core.5.35.0.nupkg.sha512"
+    },
+    "FluentValidation/11.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cyIVdQBwSipxWG8MA3Rqox7iNbUNUTK5bfJi9tIdm4CAfH71Oo5ABLP4/QyrUwuakqpUEPGtE43BDddvEehuYw==",
+      "path": "fluentvalidation/11.11.0",
+      "hashPath": "fluentvalidation.11.11.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bXJEZrW9ny8vjMF1JV253WeLhpEVzFo1lyaZu1vQ4ZxWUlVvknZ/+ftFgVheLubb4eZPSwwxBeqS1JkCOjxd8g==",
+      "path": "microsoft.extensions.primitives/8.0.0",
+      "hashPath": "microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    }
+  }
+}
